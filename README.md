@@ -1,4 +1,3 @@
-```markdown
 # task-0
 
 ## Requirements
