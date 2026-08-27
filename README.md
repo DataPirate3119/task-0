@@ -1,14 +1,19 @@
 # task-0
 Requirements- 
+
 Python 3+
 pip
 
 Installation-
+
 Clone the repository:
+
 git clone https://github.com/DataPirate3119/take-0.git
+
 cd task-0
 
 Install required packages:
+
 pip install numpy pandas matplotlib
 
 Usage-
