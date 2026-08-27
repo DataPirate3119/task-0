@@ -13,15 +13,20 @@ for n, a in arr.items():
 
 meanf=np.mean(fscores)
 print("Mean Final Score: ", meanf)
+
 maxf=np.max(fscores)
 minf=np.min(fscores)
 print("Maximum Score: ", maxf)
 print("Minimum Score: ", minf)
+
 stdd=np.std(fscores)
 print("Standard Deviation: ", stdd)
+
 bonuss=fscores+5
 print("Scores with +5 Bonus: ", bonuss)
+
 al75=fscores>=75
 print("Students scoring atleast 75: ", al75)
+
 passeds=fscores[fscores>=75]
 print("Scores greater than or equal to 75: ", passeds)
