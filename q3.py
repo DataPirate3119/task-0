@@ -5,4 +5,8 @@ def is_prime(n):
     else:
         return True
         
-print(is_prime(12))
+n=int(input())
+for j in range(2,n+1):
+    if is_prime(j)==True:
+        print(j, end=" ")
+print()
