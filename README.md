@@ -22,7 +22,7 @@ pip install numpy pandas matplotlib
 
 ## Usage
 
-Each question is implemented in its respective script file (`q1.py` through `q6.py`). Run them from the project root directory using the commands below:
+Each question is solved in its respective script file (`q1.py` through `q6.py`). Run them from the project root directory using the commands below:
 
 ### 1. List Analyzer (`q1.py`)
 
@@ -53,7 +53,7 @@ python3 q3.py
 
 ### 4. NumPy Array Operations (`q4.py`)
 
-Performs vectorized calculations, statistical aggregation (`mean`, `std`), scalar additions, and Boolean masking on array data.
+Performs vector calculations, statistical analysis (`mean`, `std`), scalar additions, and Boolean masking on array data.
 
 ```
 python3 q4.py
