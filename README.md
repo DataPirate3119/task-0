@@ -71,7 +71,7 @@ python3 q5.py
 
 ### 6. Matplotlib Data Visualization (`q6.py`)
 
-Generates visualization plots from the processed CSV and saves PNG outputs into the `plots/` directory:
+Generates visualization plots from the processed CSV and saves PNG:
 
 * `final_scores.png`: Bar chart of student final scores.
 * `study_vs_score.png`: Scatter plot comparing hours studied vs. final scores.
