@@ -2,7 +2,9 @@
 Requirements- 
 
 Python 3+
+
 pip
+
 
 Installation-
 
@@ -15,6 +17,7 @@ cd task-0
 Install required packages:
 
 pip install numpy pandas matplotlib
+
 
 Usage-
 Each question is implemented in its respective script file (q1.py through q6.py). Run them from the project root directory using the commands below: 
@@ -56,5 +59,5 @@ Each question is implemented in its respective script file (q1.py through q6.py)
    score_distribution.png: Histogram showing frequency distribution of final scores
    bitsplot.png: Custom plot highlighting impact of attendance on final scores (none tbh)
 
-python3 q6.py
+   python3 q6.py
 
